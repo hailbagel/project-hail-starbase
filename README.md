@@ -14,7 +14,7 @@
 
 ---
 
-## 2. 🎯 Mission
+## 🎯 Mission
 
 **Earn a role at SpaceX.**
 
@@ -24,7 +24,7 @@ Louisiana Economic Development describes Starbase Louisiana as an [announced com
 
 ---
 
-## 3. 🛰️ Mission Architecture
+## 🛰️ Mission Architecture
 
 ```text
 Private Evidence
@@ -44,7 +44,20 @@ The boundary is intentional: private evidence is verified and structured before 
 
 ---
 
-## 4. 🗺️ Roadmap
+## 📡 Starbase Intelligence
+
+The public intelligence layer converts verified Starbase Louisiana announcements into durable site facts and generic capability signals:
+
+| Start here | Evidence | Implications | Method |
+|:--|:--|:--|:--|
+| [Intelligence overview](intelligence/README.md) | [Site facts](intelligence/site-facts.md) | [Role signals](intelligence/role-signals.md) | [Sources](intelligence/sources.md) |
+| [News log](intelligence/news-log.md) | Status-qualified claims | Inferred families, not vacancies | Validation and freshness rules |
+
+Public intelligence contains no personal scoring, private career evidence, recruiter data, application strategy, or work-authorization information.
+
+---
+
+## 🗺️ Roadmap
 
 | Phase | Call sign | Status | Mission objective |
 |:--|:--|:--|:--|
@@ -62,7 +75,7 @@ The boundary is intentional: private evidence is verified and structured before 
 
 ---
 
-## 5. 📡 Current Program Status
+## 📡 Current Program Status
 
 | Signal | Current reading |
 |:--|:--|
@@ -76,7 +89,7 @@ M2 and M4 flight bars below are visual activity indicators—not verified comple
 
 ---
 
-## 6. 📄 Three Resume Variants
+## 📄 Three Resume Variants
 
 The mission calls for three planned ATS-safe views of the same verified career evidence. They are not published in this repository yet.
 
@@ -90,7 +103,7 @@ The mission calls for three planned ATS-safe views of the same verified career e
 
 ---
 
-## 7. 🧰 What I Bring
+## 🧰 What I Bring
 
 | Industrial Construction | Project Execution | International | Builder Mindset |
 |:--|:--|:--|:--|
@@ -103,7 +116,7 @@ The mission calls for three planned ATS-safe views of the same verified career e
 
 ---
 
-## 8. 🧭 Operating Principles
+## 🧭 Operating Principles
 
 <div align="center">
 
@@ -119,7 +132,7 @@ The mission calls for three planned ATS-safe views of the same verified career e
 
 ---
 
-## 9. 🏗️ Target Role Families
+## 🏗️ Target Role Families
 
 | Field leadership & delivery | Controls, quality & closeout |
 |:--|:--|
@@ -133,7 +146,7 @@ These are target families for future role research and applications, not current
 
 ---
 
-## 10. 🔒 Public / Private Boundary
+## 🔒 Public / Private Boundary
 
 **Never publish:**
 
@@ -149,7 +162,7 @@ Public material must be necessary, sanitized, evidence-based, and safe for recru
 
 ---
 
-## 11. 🚦 Current Flight Board
+## 🚦 Current Flight Board
 
 ```text
 M0  RECON          ██████████  100% ✅
@@ -167,7 +180,7 @@ M8  LANDING        ░░░░░░░░░░
 
 ---
 
-## 12. 🚀 Next Launch Sequence
+## 🚀 Next Launch Sequence
 
 1. Finish Resume A / B / C.
 2. Run the SpaceX Louisiana target matrix.
@@ -180,7 +193,7 @@ All resumes, target research, and applications in this sequence are planned work
 
 ---
 
-## 13. ⭐ North Star
+## ⭐ North Star
 
 <div align="center">
 
