@@ -1,0 +1,13 @@
+# News log
+
+Append meaningful changes only. Do not silently edit historical rows; corrections are new rows that identify what they supersede. Deduplicate syndication and unchanged claims.
+
+| DATE | SOURCE | HEADLINE / SIGNAL | SOURCE CLASS | WHAT CHANGED | CAREER IMPACT | ACTION | STATUS |
+|---|---|---|---|---|---|---|---|
+| 2026-08-25 | [Louisiana Economic Development](https://www.opportunitylouisiana.gov/news/spacex-launches-new-era-of-commercial-spaceflight-with-100-billion-louisiana-campus) | SpaceX announces $100B Louisiana campus | A | Announced planned investment, Vermilion Parish location, full-buildout systems, 2027 construction expectation, 2029 earliest launch target, and job estimates; supports [FACT-001–FACT-014](site-facts.md). | Establishes broad industrial construction, utilities, facilities, logistics, and interface signals. | Promote qualified claims to site facts and map generic capabilities. | VERIFIED ANNOUNCEMENT; NOT CONSTRUCTION COMPLETION |
+| Publication date unknown; retrieved 2026-09-13 | [Opportunity Louisiana landing page / FAQ](https://www.opportunitylouisiana.gov/spacex) | FAQ adds infrastructure and regulatory detail | A | Adds `$100 billion+` display wording, end-of-2027 construction wording, Highway 82 evaluation, generation/transmission need, and permitting/coastal/wildlife interfaces; supports [FACT-001](site-facts.md), [FACT-009](site-facts.md), and [FACT-015–FACT-017](site-facts.md). | Strengthens civil, utility, controls, and compliance-interface signals without proving vacancies. | Retain explicit planned/evaluated/required statuses; monitor official decisions. | VERIFIED LIVE; UNDATED PAGE |
+| Publication date unknown; retrieved 2026-09-13 | [SpaceX — Starbase Louisiana](https://www.spacex.com/sites/starbase-la) | Official Starbase Louisiana page reachable | A | The official URL linked by Opportunity Louisiana returned HTTP 200; no additional claim was promoted because the retrieved response was a client-rendered shell and the content endpoint yielded no usable record. | Confirms an official project destination exists, but does not independently substantiate a vacancy or new project milestone in this review. | Recheck official page content and official careers during the next meaningful-change review. | LIVE URL; CLAIM CHECK LIMITED |
+
+## Per-item processing record
+
+Each accepted row must link to facts or signals that answer: what changed; source reliability; durability; implied capability; likely role families; generic strategy consequence; and generic resume-emphasis consequence. See the [worked example](README.md#worked-example). Candidate-specific answers belong only in the private handoff.
