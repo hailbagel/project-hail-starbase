@@ -8,9 +8,35 @@ These are public, generic inferences from the verified site facts. They are not 
 - **RECENTLY OBSERVED ROLE:** a previously observed official posting that is no longer confirmed open; it cannot support a current-vacancy claim.
 - **INFERRED ROLE FAMILY:** a capability family inferred from project scope; it does not claim a vacancy exists.
 
-## Vacancy check
+## Vacancy checks
+
+**Seed observation (2026-09-13):**
 
 No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSERVED ROLE** in this seed review. The [official SpaceX careers page](https://www.spacex.com/careers/) was checked on 2026-09-13, but no exact Louisiana posting URL, title, and location was captured. Therefore all signals below are **INFERRED ROLE FAMILY** only.
+
+**Current observation (2026-09-16 UTC):** two exact official postings are classified **VERIFIED OPEN ROLE** below. This supersedes the seed review only as a current-vacancy statement; the seed paragraph remains dated history. The classifications are time-bound and do not change the **INFERRED ROLE FAMILY** status of the engineering, civil, construction, controls, or commissioning signals.
+
+### ROLE-001 — Government Affairs Manager
+
+- **Observed change:** [Official posting 8787398002](https://job-boards.greenhouse.io/spacex/jobs/8787398002), Government Affairs Manager, Pecan Island, LA, was live on 2026-09-16 UTC; the [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8787398002) reports `first_published=2026-09-14T12:57:12-04:00`.
+- **Reliability:** Class A official SpaceX Greenhouse posting; exact page, individual API record, and presence in the official board listing were checked.
+- **Durability:** time-bound recruitment observation, not a durable project milestone; see [FACT-018](site-facts.md#fact-018--government-affairs-recruitment-observation).
+- **Execution-capability implication:** SpaceX is recruiting public-affairs capacity for government, community, business, and outreach interfaces around the Pecan Island site.
+- **Likely benefiting families:** government affairs; public affairs; community relations; stakeholder engagement.
+- **Generic strategy consequence:** treat this as observed public-affairs recruitment while keeping engineering and construction demand inferred until exact official roles exist.
+- **Generic resume-evidence category:** measurable government/community engagement, policy navigation, issue management, and cross-functional communication outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-09-16 UTC.
+
+### ROLE-002 — Sr. Counsel, Real Estate & Infrastructure
+
+- **Observed change:** [Official posting 8808149002](https://job-boards.greenhouse.io/spacex/jobs/8808149002), Sr. Counsel, Real Estate & Infrastructure, Pecan Island, LA, was live on 2026-09-16 UTC; the [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8808149002) reports `first_published=2026-09-15T11:40:54-04:00`.
+- **Reliability:** Class A official SpaceX Greenhouse posting; exact page, individual API record, and presence in the official board listing were checked.
+- **Durability:** time-bound recruitment observation, not proof of approved land, utilities, permits, or construction; see [FACT-019](site-facts.md#fact-019--real-estate-and-infrastructure-counsel-recruitment-observation).
+- **Execution-capability implication:** SpaceX is recruiting legal capacity for land/access, real-estate and infrastructure transactions, utility and commercial arrangements, and interfaces with engineering, construction, operations, officials, utilities, and regulators.
+- **Likely benefiting families:** real-estate counsel; infrastructure and energy transactions; land/access legal; commercial contracting.
+- **Generic strategy consequence:** treat this as an observed legal opening and interface signal, not as an engineering or construction-management vacancy.
+- **Generic resume-evidence category:** complex real-estate/infrastructure transactions, land and access instruments, utility/commercial agreements, and cross-functional technical/permitting coordination.
+- **Classification:** VERIFIED OPEN ROLE on 2026-09-16 UTC.
 
 ### SIG-001 — Launch infrastructure
 
