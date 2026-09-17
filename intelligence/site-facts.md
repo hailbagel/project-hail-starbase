@@ -140,9 +140,30 @@ Retrieved and checked on **2026-09-13**. These are public-source claims, not ind
 - **Source:** [LED FAQ](https://www.opportunitylouisiana.gov/spacex), publication date unknown; retrieved 2026-09-13.
 - **Confidence:** High for the described process; permit inventory and decisions unresolved.
 
+## Historical recruitment observations
+
+These records describe time-bound official recruitment observations. They do not establish building completion, approvals, construction start, or an engineering vacancy.
+
+### FACT-018 — Government affairs recruitment observation
+
+- **Claim:** SpaceX published an official Government Affairs Manager vacancy located in Pecan Island, LA, covering state/local government, community, business, and outreach relationships.
+- **Status:** VERIFIED OPEN ROLE on 2026-09-16 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8787398002`; Greenhouse API `first_published` and `updated_at` both `2026-09-14T12:57:12-04:00`; the exact posting, individual API record, and SpaceX Greenhouse job list were live and consistent on the check date.
+- **Source:** [SRC-005](sources.md#source-register), checked 2026-09-16 UTC.
+- **Confidence:** High for the exact vacancy observation; not evidence of construction, approval, engineering hiring, or first-ever Louisiana hiring.
+
+### FACT-019 — Real-estate and infrastructure counsel recruitment observation
+
+- **Claim:** SpaceX published an official Sr. Counsel, Real Estate & Infrastructure vacancy located in Pecan Island, LA, covering land and access, real-estate transactions, utility/infrastructure commercial legal work, and coordination with technical and permitting workstreams.
+- **Status:** VERIFIED OPEN ROLE on 2026-09-16 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8808149002`; Greenhouse API `first_published` and `updated_at` both `2026-09-15T11:40:54-04:00`; the exact posting, individual API record, and SpaceX Greenhouse job list were live and consistent on the check date. The stated Louisiana bar requirement identifies this as counsel, not a construction-management opening.
+- **Source:** [SRC-006](sources.md#source-register), checked 2026-09-16 UTC.
+- **Confidence:** High for the exact vacancy observation; not evidence that utilities, permits, designs, or construction are approved or underway.
+
 ## Explicit unresolved items
 
 - No source reviewed here proves that site construction has started or that any listed facility is complete.
 - No source reviewed here supplies final designs, package awards, a comprehensive permit inventory, or final launch approval.
 - The FAQ has no visible publication date; retrieval date is recorded instead.
 - The official SpaceX page was live on 2026-09-13, but its client-rendered response did not yield additional claim text in this validation. No claim is promoted from the page solely because the URL exists.
+- The two 2026-09-16 vacancy observations are time-bound recruitment evidence. They do not convert any planned, evaluated, or unresolved project item into an approved or completed milestone.
