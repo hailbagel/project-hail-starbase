@@ -6,7 +6,7 @@
 
 ![Mission: SpaceX](https://img.shields.io/badge/MISSION-SpaceX-111111?style=for-the-badge&logo=spacex&logoColor=white)
 ![Starbase Louisiana](https://img.shields.io/badge/STARBASE-Louisiana-6B2232?style=for-the-badge)
-![Current Phase: M2 Vehicle](https://img.shields.io/badge/CURRENT_PHASE-M2_VEHICLE-1565C0?style=for-the-badge)
+![Current Phase: M5 Launch Window](https://img.shields.io/badge/CURRENT_PHASE-M5_LAUNCH_WINDOW-1565C0?style=for-the-badge)
 
 **A public mission log for turning verified industrial-construction experience into focused, role-ready proof.**
 
@@ -63,13 +63,13 @@ Public intelligence contains no personal scoring, private career evidence, recru
 |:--|:--|:--|:--|
 | **M0** | RECON | ✅ COMPLETE | Career evidence discovery |
 | **M1** | FLIGHT PLAN | ✅ 100% COMPLETE | Verified Career Master |
-| **M2** | VEHICLE | 🔵 ACTIVE | Three ATS-safe SpaceX resume variants |
-| **M3** | TRANSPONDER | ⚪ PLANNED | LinkedIn + public identity |
-| **M4** | RANGE | 🟠 NEXT | SpaceX Louisiana target-role intelligence |
-| **M5** | LAUNCH WINDOW | ⚪ PLANNED | Application campaign |
-| **M6** | ASCENT | ⚪ PLANNED | Interviews + immigration / work authorization |
-| **M7** | ORBIT | ⚪ PLANNED | SpaceX offer |
-| **M8** | LANDING | ⚪ PLANNED | Start at SpaceX / relocation |
+| **M2** | VEHICLE | 🟡 FINALIZING | Final SpaceX / Starbase resume system |
+| **M3** | TRANSPONDER | ✅ CORE COMPLETE | LinkedIn + public identity foundation |
+| **M4** | RANGE | ✅ COMPLETE | SpaceX Louisiana target-role intelligence |
+| **M5** | LAUNCH WINDOW | 🔵 ACTIVE | Build and approve application packages |
+| **M6** | ASCENT | ⚪ PLANNED | Submit approved applications and outreach |
+| **M7** | ORBIT | ⚪ PLANNED | Interviews + follow-ups + interview preparation |
+| **M8** | LANDING | ⚪ PLANNED | SpaceX offer / employment decision / relocation |
 
 > **Flight path:** `RECON → FLIGHT PLAN → VEHICLE → TRANSPONDER → RANGE → LAUNCH WINDOW → ASCENT → ORBIT → LANDING`
 
@@ -79,27 +79,28 @@ Public intelligence contains no personal scoring, private career evidence, recru
 
 | Signal | Current reading |
 |:--|:--|
-| **Active phase** | M2 — VEHICLE |
-| **Work in progress** | Resume variants A, B, and C |
-| **Next phase** | M4 — RANGE target-role intelligence |
+| **Active phase** | M5 — LAUNCH WINDOW |
+| **Work in progress** | Final SpaceX / Starbase Louisiana application package |
+| **Resume system** | Finalizing |
+| **Target intelligence** | Core capability complete |
 | **Public posture** | Sanitized mission narrative only |
-| **Application status** | Planned; no completed applications claimed here |
+| **Application status** | Preparation active; no external submission claimed here |
 
-M2 and M4 flight bars below are visual activity indicators—not verified completion percentages.
+M2 and M5 flight bars below are visual activity indicators—not verified completion percentages.
 
 ---
 
-## 📄 Three Resume Variants
+## 📄 Resume System
 
-The mission calls for three planned ATS-safe views of the same verified career evidence. They are not published in this repository yet.
+The mission uses one verified evidence base and adapts presentation only where a real target requires it.
 
-| Variant | Focus | Status |
+| Deliverable | Focus | Status |
 |:--|:--|:--|
-| **A — U.S. EXPERIENCE** | U.S.-relevant experience and context | In development |
-| **B — FIELD EXECUTION** | Site delivery, coordination, and construction execution | In development |
-| **C — PROJECT MANAGEMENT** | Planning, controls, interfaces, risk, and delivery | In development |
+| **SpaceX Master Resume** | Primary Starbase / construction-execution profile | Finalizing |
+| **Role-specific variants** | Materially different positioning for selected targets | As required |
+| **General Starbase Package** | Resume + concise submission message | In preparation |
 
-**One evidence base. Three targeted views. No invented claims.**
+**One evidence base. Targeted presentation. No invented claims.**
 
 ---
 
@@ -167,29 +168,30 @@ Public material must be necessary, sanitized, evidence-based, and safe for recru
 ```text
 M0  RECON          ██████████  100% ✅
 M1  FLIGHT PLAN    ██████████  100% ✅
-M2  VEHICLE        ████░░░░░░  ACTIVE
-M3  TRANSPONDER    ░░░░░░░░░░  PLANNED
-M4  RANGE          ██░░░░░░░░  NEXT
-M5  LAUNCH WINDOW  ░░░░░░░░░░
-M6  ASCENT         ░░░░░░░░░░
-M7  ORBIT          ░░░░░░░░░░
-M8  LANDING        ░░░░░░░░░░
+M2  VEHICLE        █████████░  FINALIZING
+M3  TRANSPONDER    █████████░  CORE COMPLETE
+M4  RANGE          ██████████  COMPLETE
+M5  LAUNCH WINDOW  ████░░░░░░  ACTIVE
+M6  ASCENT         ░░░░░░░░░░  PLANNED
+M7  ORBIT          ░░░░░░░░░░  PLANNED
+M8  LANDING        ░░░░░░░░░░  PLANNED
 ```
 
-> Partial M2 and M4 bars indicate activity and sequencing only; they are not measured completion percentages.
+> Partial M2 and M5 bars indicate activity and sequencing only; they are not measured completion percentages.
 
 ---
 
 ## 🚀 Next Launch Sequence
 
-1. Finish Resume A / B / C.
-2. Run the SpaceX Louisiana target matrix.
-3. Match role × resume.
-4. Select the first high-fit targets.
-5. Launch controlled applications.
-6. Analyze response data and iterate.
+1. Finalize the SpaceX / Starbase master resume.
+2. Review the strongest current target roles.
+3. Prepare the Starbase Louisiana general submission package.
+4. Create role-specific variants only where materially useful.
+5. Stop for Patrick approval.
+6. Launch approved applications.
+7. Analyze response data and iterate.
 
-All resumes, target research, and applications in this sequence are planned work unless explicitly marked complete above.
+All application materials and submissions in this sequence remain planned until explicitly marked complete above.
 
 ---
 
