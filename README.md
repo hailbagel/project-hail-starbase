@@ -4,9 +4,9 @@
 
 ### Building my way from heavy industrial construction to SpaceX.
 
-![Mission: SpaceX](https://img.shields.io/badge/MISSION-SpaceX-111111?style=for-the-badge&logo=spacex&logoColor=white)
-![Starbase Louisiana]([https://img.shields.io/badge/STARBASE-Louisiana-6B2232?style=for-the-badge](https://www.spacex.com/sites/starbase-la)
-![Current Phase: M5 Launch Window](https://img.shields.io/badge/CURRENT_PHASE-M5_LAUNCH_WINDOW-1565C0?style=for-the-badge)
+[![SpaceX](https://img.shields.io/badge/SpaceX-111111?style=for-the-badge&logo=spacex&logoColor=white)](https://www.spacex.com/)
+[![Starbase Louisiana](https://img.shields.io/badge/Starbase%20Louisiana-263238?style=for-the-badge&logo=spacex&logoColor=white)](https://www.spacex.com/sites/starbase-la)
+[![M5 Launch Window](https://img.shields.io/badge/M5%20LAUNCH%20WINDOW-B45309?style=for-the-badge)](#program-status)
 
 **A public mission log for turning verified industrial-construction experience into focused, role-ready proof.**
 
@@ -74,6 +74,8 @@ Public intelligence contains no personal scoring, private career evidence, recru
 > **Flight path:** `RECON → FLIGHT PLAN → VEHICLE → TRANSPONDER → RANGE → LAUNCH WINDOW → ASCENT → ORBIT → LANDING`
 
 ---
+
+<a id="program-status"></a>
 
 ## 📡 Current Program Status
 
