@@ -160,6 +160,21 @@ These records describe time-bound official recruitment observations. They do not
 - **Source:** [SRC-006](sources.md#source-register), checked 2026-09-16 UTC.
 - **Confidence:** High for the exact vacancy observation; not evidence that utilities, permits, designs, or construction are approved or underway.
 
+### FACT-020 — Civil-engineering recruitment observation
+
+- **Claim:** SpaceX published an official Civil Engineer, Land Development (Starbase Infrastructure - Louisiana) vacancy listed in Pecan Island, LA. The posting states that the position begins in Starbase, Texas, and requires relocation to Louisiana in early 2027.
+- **Status:** VERIFIED OPEN ROLE on 2026-09-21 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8814619002`; `first_published` was `2026-09-17T11:00:35-04:00`, `updated_at` was `2026-09-17T11:01:07-04:00`, and the exact page, individual API record, and active SpaceX board list were live and consistent on the check date.
+- **Source:** [SRC-007](sources.md#source-register), checked 2026-09-21 UTC.
+- **Confidence:** High for the vacancy observation; not evidence that site work, permits, designs, or construction are approved or underway.
+
+### FACT-021 — Construction-management recruitment observation
+
+- **Claim:** SpaceX published an official Sr. Construction Project Manager (Starship Infrastructure - Louisiana) vacancy listed in Pecan Island, LA. The posting states that the position begins in Starbase, Texas, and requires relocation to Louisiana in early 2027.
+- **Status:** VERIFIED OPEN ROLE on 2026-09-21 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8814705002`; `first_published` was `2026-09-16T12:49:40-04:00`, `updated_at` was `2026-09-17T12:05:40-04:00`, and the exact page, individual API record, and active SpaceX board list were live and consistent on the check date.
+- **Source:** [SRC-008](sources.md#source-register), checked 2026-09-21 UTC.
+- **Confidence:** High for the vacancy observation; duties and recruitment timing do not prove completed work, awarded packages, approvals, or a construction start.
 ## Explicit unresolved items
 
 - No source reviewed here proves that site construction has started or that any listed facility is complete.
