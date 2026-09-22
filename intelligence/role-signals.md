@@ -100,3 +100,31 @@ No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSER
 - **Generic strategy consequence:** regulatory records may be more durable than secondary news for schedule and scope changes.
 - **Generic resume-emphasis consequence:** relevant candidates can emphasize verified regulator/stakeholder coordination and auditable compliance work.
 - **Classification:** INFERRED ROLE FAMILY.
+
+## Vacancy observations checked 2026-09-21
+
+The exact roles below were verified on the stated check date. Their related generic families above remain **INFERRED ROLE FAMILY** except for these exact official vacancies.
+
+### ROLE-003 — Civil Engineer, Land Development (Starbase Infrastructure - Louisiana)
+
+- **Observed change:** [Official posting 8814619002](https://job-boards.greenhouse.io/spacex/jobs/8814619002), Civil Engineer, Land Development (Starbase Infrastructure - Louisiana), listed in Pecan Island, LA, was live on 2026-09-21 UTC. The [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8814619002) reports `first_published=2026-09-17T11:00:35-04:00` and `updated_at=2026-09-17T11:01:07-04:00`.
+- **Assignment qualifier:** the posting states that work begins in Starbase, Texas, with required relocation to Louisiana in early 2027.
+- **Reliability:** Class A official SpaceX Greenhouse posting; exact page, individual API record, and active-board membership were checked.
+- **Durability:** time-bound recruitment observation, not a construction milestone; see [FACT-020](site-facts.md#fact-020--civil-engineering-recruitment-observation).
+- **Execution-capability implication:** observed demand covers land-development planning, civil design, drainage and utility coordination, permitting interfaces, and field/contractor coordination.
+- **Likely benefiting families:** civil engineering; site development; related infrastructure families remain inferred outside this exact role.
+- **Generic strategy consequence:** distinguish this exact vacancy from broad inferred demand and recheck the official record before any later current-vacancy claim.
+- **Generic resume-evidence category:** verified civil/site design, drainage or utility coordination, permitting, and field-interface outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-09-21 UTC.
+
+### ROLE-004 — Sr. Construction Project Manager (Starship Infrastructure - Louisiana)
+
+- **Observed change:** [Official posting 8814705002](https://job-boards.greenhouse.io/spacex/jobs/8814705002), Sr. Construction Project Manager (Starship Infrastructure - Louisiana), listed in Pecan Island, LA, was live on 2026-09-21 UTC. The [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8814705002) reports `first_published=2026-09-16T12:49:40-04:00` and `updated_at=2026-09-17T12:05:40-04:00`.
+- **Assignment qualifier:** the posting states that work begins in Starbase, Texas, with required relocation to Louisiana in early 2027.
+- **Reliability:** Class A official SpaceX Greenhouse posting; exact page, individual API record, and active-board membership were checked.
+- **Durability:** time-bound recruitment observation, not proof of construction start, awarded packages, approvals, or completed work; see [FACT-021](site-facts.md#fact-021--construction-management-recruitment-observation).
+- **Execution-capability implication:** observed demand covers multidisciplinary construction delivery, cost and schedule control, subcontractor coordination, safety, and regulatory interfaces.
+- **Likely benefiting families:** construction project management; related civil, controls, and infrastructure families remain inferred outside this exact role.
+- **Generic strategy consequence:** distinguish this exact vacancy from broad inferred demand and recheck the official record before any later current-vacancy claim.
+- **Generic resume-evidence category:** verified multidisciplinary delivery, controls, subcontractor management, safety, and regulatory-interface outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-09-21 UTC.
