@@ -175,6 +175,15 @@ These records describe time-bound official recruitment observations. They do not
 - **Evidence:** Official posting ID `8814705002`; `first_published` was `2026-09-16T12:49:40-04:00`, `updated_at` was `2026-09-17T12:05:40-04:00`, and the exact page, individual API record, and active SpaceX board list were live and consistent on the check date.
 - **Source:** [SRC-008](sources.md#source-register), checked 2026-09-21 UTC.
 - **Confidence:** High for the vacancy observation; duties and recruitment timing do not prove completed work, awarded packages, approvals, or a construction start.
+
+### FACT-022 — Source Louisiana supplier and contractor pathway
+
+- **Claim:** LED reports that SpaceX has joined Source Louisiana, providing Louisiana suppliers, contractors, and service providers a pathway to compete for project-associated work. Source Louisiana lets businesses register in a statewide directory to increase visibility for future procurement opportunities.
+- **Status:** DOCUMENTED ACCESS PATHWAY as checked 2026-10-05 UTC; newly captured baseline evidence, not a pathway launch date, vendor selection, qualification, award, procurement schedule, contract, vacancy, or construction milestone.
+- **Evidence:** The undated LED FAQ states, “SpaceX has joined Source Louisiana”; the undated Source Louisiana page describes free business registration and says registration “does not constitute a guarantee of a business opportunity.” The FAQ also links separately to SpaceX's supplier destination; that destination returned HTTP 200 as a client-rendered shell, so form usability and acceptance were not established. No registration or submission was performed.
+- **Source:** [SRC-002 and SRC-009](sources.md#source-register), checked 2026-10-05 UTC; publication dates unknown.
+- **Confidence:** High that LED published the participation, directory, and limitation statements on the check date; no evidence here identifies an awarded contractor or open individual role.
+
 ## Explicit unresolved items
 
 - No source reviewed here proves that site construction has started or that any listed facility is complete.
