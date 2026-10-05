@@ -101,6 +101,15 @@ No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSER
 - **Generic resume-emphasis consequence:** relevant candidates can emphasize verified regulator/stakeholder coordination and auditable compliance work.
 - **Classification:** INFERRED ROLE FAMILY.
 
+### SIG-008 — Supplier, contractor, and procurement interfaces
+
+- **Facts:** [FACT-022](site-facts.md#fact-022--source-louisiana-supplier-and-contractor-pathway)
+- **Capability:** supplier capability presentation, procurement and vendor interfaces, contractor readiness, subcontractor coordination, and associated industrial-delivery interfaces.
+- **Likely families:** procurement; supplier coordination; contractor management; subcontractor and industrial-delivery interfaces.
+- **Generic strategy consequence:** treat Source Louisiana as a business-visibility pathway and monitor primary procurement, qualification, selection, and award evidence before inferring active packages or demand.
+- **Generic resume-emphasis consequence:** relevant candidates can describe verified supplier, subcontractor, procurement, and contractor-delivery outcomes they already possess; registration alone supplies no new personal evidence.
+- **Classification:** INFERRED ROLE FAMILY; not a verified vacancy, selected supplier, awarded package, contract, or construction start.
+
 ## Vacancy observations checked 2026-09-21
 
 The exact roles below were verified on the stated check date. Their related generic families above remain **INFERRED ROLE FAMILY** except for these exact official vacancies.
