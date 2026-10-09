@@ -6,7 +6,7 @@
 
 [![SpaceX](https://img.shields.io/badge/SpaceX-111111?style=for-the-badge&logo=spacex&logoColor=white)](https://www.spacex.com/)
 [![Starbase Louisiana](https://img.shields.io/badge/Starbase%20Louisiana-263238?style=for-the-badge&logo=spacex&logoColor=white)](https://www.spacex.com/sites/starbase-la)
-[![M5 Launch Window](https://img.shields.io/badge/M5%20LAUNCH%20WINDOW-B45309?style=for-the-badge)](#program-status)
+[![M6 Ascent](https://img.shields.io/badge/M6%20ASCENT-1565C0?style=for-the-badge)](#program-status)
 
 **A public mission log for turning verified industrial-construction experience into focused, role-ready proof.**
 
@@ -63,11 +63,11 @@ Public intelligence contains no personal scoring, private career evidence, recru
 |:--|:--|:--|:--|
 | **M0** | RECON | ✅ COMPLETE | Career evidence discovery |
 | **M1** | FLIGHT PLAN | ✅ 100% COMPLETE | Verified Career Master |
-| **M2** | VEHICLE | 🟡 FINALIZING | Final SpaceX / Starbase resume system |
+| **M2** | VEHICLE | ✅ COMPLETE | Final SpaceX / Starbase resume system |
 | **M3** | TRANSPONDER | ✅ CORE COMPLETE | LinkedIn + public identity foundation |
 | **M4** | RANGE | ✅ COMPLETE | SpaceX Louisiana target-role intelligence |
-| **M5** | LAUNCH WINDOW | 🔵 ACTIVE | Build and approve application packages |
-| **M6** | ASCENT | ⚪ PLANNED | Submit approved applications and outreach |
+| **M5** | LAUNCH WINDOW | ✅ COMPLETE | Build and approve application packages |
+| **M6** | ASCENT | 🔵 ACTIVE | Patrick-managed manual submission and application follow-through |
 | **M7** | ORBIT | ⚪ PLANNED | Interviews + follow-ups + interview preparation |
 | **M8** | LANDING | ⚪ PLANNED | SpaceX offer / employment decision / relocation |
 
@@ -81,14 +81,14 @@ Public intelligence contains no personal scoring, private career evidence, recru
 
 | Signal | Current reading |
 |:--|:--|
-| **Active phase** | M5 — LAUNCH WINDOW |
-| **Work in progress** | Final SpaceX / Starbase Louisiana application package |
-| **Resume system** | Finalizing |
+| **Active phase** | M6 — ASCENT |
+| **Work in progress** | Patrick-managed manual submission of the prepared first targeted application package |
+| **Resume system** | Complete |
 | **Target intelligence** | Core capability complete |
 | **Public posture** | Sanitized mission narrative only |
-| **Application status** | Preparation active; no external submission claimed here |
+| **Application status** | First targeted application package prepared for Patrick-managed manual submission. No application submission claimed. |
 
-M2 and M5 flight bars below are visual activity indicators—not verified completion percentages.
+M6 flight bars below are visual activity indicators—not verified completion percentages.
 
 ---
 
@@ -98,9 +98,9 @@ The mission uses one verified evidence base and adapts presentation only where a
 
 | Deliverable | Focus | Status |
 |:--|:--|:--|
-| **SpaceX Master Resume** | Primary Starbase / construction-execution profile | Finalizing |
+| **SpaceX Master Resume** | Primary Starbase / construction-execution profile | Complete |
 | **Role-specific variants** | Materially different positioning for selected targets | As required |
-| **General Starbase Package** | Resume + concise submission message | In preparation |
+| **General Starbase Package** | Resume + concise submission message | Prepared |
 
 **One evidence base. Targeted presentation. No invented claims.**
 
@@ -170,30 +170,27 @@ Public material must be necessary, sanitized, evidence-based, and safe for recru
 ```text
 M0  RECON          ██████████  100% ✅
 M1  FLIGHT PLAN    ██████████  100% ✅
-M2  VEHICLE        █████████░  FINALIZING
+M2  VEHICLE        ██████████  COMPLETE
 M3  TRANSPONDER    █████████░  CORE COMPLETE
 M4  RANGE          ██████████  COMPLETE
-M5  LAUNCH WINDOW  ████░░░░░░  ACTIVE
-M6  ASCENT         ░░░░░░░░░░  PLANNED
+M5  LAUNCH WINDOW  ██████████  COMPLETE
+M6  ASCENT         ████░░░░░░  ACTIVE
 M7  ORBIT          ░░░░░░░░░░  PLANNED
 M8  LANDING        ░░░░░░░░░░  PLANNED
 ```
 
-> Partial M2 and M5 bars indicate activity and sequencing only; they are not measured completion percentages.
+> The partial M6 bar indicates activity and sequencing only; it is not a measured completion percentage.
 
 ---
 
 ## 🚀 Next Launch Sequence
 
-1. Finalize the SpaceX / Starbase master resume.
-2. Review the strongest current target roles.
-3. Prepare the Starbase Louisiana general submission package.
-4. Create role-specific variants only where materially useful.
-5. Stop for Patrick approval.
-6. Launch approved applications.
-7. Analyze response data and iterate.
+1. Patrick manually reviews and submits the prepared first targeted application package.
+2. Track any response through the appropriate channel.
+3. Prepare future targeted packages only where materially useful.
+4. Analyze response data and iterate.
 
-All application materials and submissions in this sequence remain planned until explicitly marked complete above.
+No application submission is claimed in this public repository until independently confirmed.
 
 ---
 
