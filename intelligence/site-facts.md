@@ -147,9 +147,9 @@ These records describe time-bound official recruitment observations. They do not
 ### FACT-018 — Government affairs recruitment observation
 
 - **Claim:** SpaceX published an official Government Affairs Manager vacancy located in Pecan Island, LA, covering state/local government, community, business, and outreach relationships.
-- **Status:** VERIFIED OPEN ROLE on 2026-09-16 UTC; time-bound recruitment observation.
-- **Evidence:** Official posting ID `8787398002`; Greenhouse API `first_published` and `updated_at` both `2026-09-14T12:57:12-04:00`; the exact posting, individual API record, and SpaceX Greenhouse job list were live and consistent on the check date.
-- **Source:** [SRC-005](sources.md#source-register), checked 2026-09-16 UTC.
+- **Status:** RECENTLY OBSERVED ROLE as of 2026-10-12 UTC; verified open on 2026-09-16 UTC, but not confirmed open on the later check.
+- **Evidence:** Official posting ID `8787398002`; Greenhouse API `first_published` and `updated_at` both `2026-09-14T12:57:12-04:00`; the exact posting, individual API record, and SpaceX Greenhouse job list were live and consistent on 2026-09-16. On 2026-10-12 the ID was absent from the active board, its individual API returned HTTP 404, and its exact page redirected away from the posting. That later result does not establish a filled position, replacement, or end of hiring.
+- **Source:** [SRC-005](sources.md#source-register), checked 2026-09-16 and rechecked 2026-10-12 UTC.
 - **Confidence:** High for the exact vacancy observation; not evidence of construction, approval, engineering hiring, or first-ever Louisiana hiring.
 
 ### FACT-019 — Real-estate and infrastructure counsel recruitment observation
@@ -184,6 +184,14 @@ These records describe time-bound official recruitment observations. They do not
 - **Source:** [SRC-002 and SRC-009](sources.md#source-register), checked 2026-10-05 UTC; publication dates unknown.
 - **Confidence:** High that LED published the participation, directory, and limitation statements on the check date; no evidence here identifies an awarded contractor or open individual role.
 
+### FACT-023 — Senior government affairs recruitment observation
+
+- **Claim:** SpaceX published an official Sr. Government Affairs Manager vacancy located in Pecan Island, LA, covering regional government relationships, community and business relations, educational outreach, policy monitoring, and external stakeholder coordination.
+- **Status:** VERIFIED OPEN ROLE on 2026-10-12 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8870870002`; Greenhouse API `first_published` and `updated_at` both `2026-10-06T20:08:13-04:00`; the exact posting and individual API returned HTTP 200, and the active SpaceX board contained the matching ID, title, and location on the check date. The posting requires eight or more years of public-affairs experience and residence in or near Vermilion Parish.
+- **Source:** [SRC-010](sources.md#source-register), checked 2026-10-12 UTC.
+- **Confidence:** High for the exact vacancy observation; no evidence establishes that it replaces FACT-018's earlier role, nor does it prove engineering hiring, construction progress, a permit, approval, or completed milestone.
+
 ## Explicit unresolved items
 
 - No source reviewed here proves that site construction has started or that any listed facility is complete.
@@ -191,3 +199,4 @@ These records describe time-bound official recruitment observations. They do not
 - The FAQ has no visible publication date; retrieval date is recorded instead.
 - The official SpaceX page was live on 2026-09-13, but its client-rendered response did not yield additional claim text in this validation. No claim is promoted from the page solely because the URL exists.
 - The two 2026-09-16 vacancy observations are time-bound recruitment evidence. They do not convert any planned, evaluated, or unresolved project item into an approved or completed milestone.
+- FACT-018's dated 2026-09-16 observation remains valid history, but its current-open interpretation was superseded on 2026-10-12. FACT-023 is a separate current vacancy; replacement and filled-position inferences remain unsupported.
