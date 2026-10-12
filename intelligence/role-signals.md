@@ -16,16 +16,18 @@ No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSER
 
 **Current observation (2026-09-16 UTC):** two exact official postings are classified **VERIFIED OPEN ROLE** below. This supersedes the seed review only as a current-vacancy statement; the seed paragraph remains dated history. The classifications are time-bound and do not change the **INFERRED ROLE FAMILY** status of the engineering, civil, construction, controls, or commissioning signals.
 
+**Current observation (2026-10-12 UTC):** ROLE-001 is no longer confirmed open and is classified **RECENTLY OBSERVED ROLE**. ROLE-005 is a separate exact official posting classified **VERIFIED OPEN ROLE**. This supersedes only the current-status interpretation of ROLE-001; it does not establish that ROLE-005 is a replacement or that ROLE-001 was filled.
+
 ### ROLE-001 — Government Affairs Manager
 
 - **Observed change:** [Official posting 8787398002](https://job-boards.greenhouse.io/spacex/jobs/8787398002), Government Affairs Manager, Pecan Island, LA, was live on 2026-09-16 UTC; the [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8787398002) reports `first_published=2026-09-14T12:57:12-04:00`.
-- **Reliability:** Class A official SpaceX Greenhouse posting; exact page, individual API record, and presence in the official board listing were checked.
+- **Reliability:** Class A official SpaceX Greenhouse posting; exact page, individual API record, and presence in the official board listing were checked on 2026-09-16. On 2026-10-12 the ID was absent from the active board, its API returned HTTP 404, and its exact page redirected away from the posting.
 - **Durability:** time-bound recruitment observation, not a durable project milestone; see [FACT-018](site-facts.md#fact-018--government-affairs-recruitment-observation).
 - **Execution-capability implication:** SpaceX is recruiting public-affairs capacity for government, community, business, and outreach interfaces around the Pecan Island site.
 - **Likely benefiting families:** government affairs; public affairs; community relations; stakeholder engagement.
 - **Generic strategy consequence:** treat this as observed public-affairs recruitment while keeping engineering and construction demand inferred until exact official roles exist.
 - **Generic resume-evidence category:** measurable government/community engagement, policy navigation, issue management, and cross-functional communication outcomes.
-- **Classification:** VERIFIED OPEN ROLE on 2026-09-16 UTC.
+- **Classification:** RECENTLY OBSERVED ROLE as of 2026-10-12 UTC; the verified-open observation on 2026-09-16 remains dated history. No filled-position or replacement inference is made.
 
 ### ROLE-002 — Sr. Counsel, Real Estate & Infrastructure
 
@@ -137,3 +139,16 @@ The exact roles below were verified on the stated check date. Their related gene
 - **Generic strategy consequence:** distinguish this exact vacancy from broad inferred demand and recheck the official record before any later current-vacancy claim.
 - **Generic resume-evidence category:** verified multidisciplinary delivery, controls, subcontractor management, safety, and regulatory-interface outcomes.
 - **Classification:** VERIFIED OPEN ROLE on 2026-09-21 UTC.
+
+## Vacancy observation checked 2026-10-12
+
+### ROLE-005 — Sr. Government Affairs Manager
+
+- **Observed change:** [Official posting 8870870002](https://job-boards.greenhouse.io/spacex/jobs/8870870002), Sr. Government Affairs Manager, Pecan Island, LA, was live on 2026-10-12 UTC. The [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8870870002) reports `first_published=2026-10-06T20:08:13-04:00` and `updated_at=2026-10-06T20:08:13-04:00`.
+- **Reliability:** Class A official SpaceX Greenhouse posting; the exact page and individual API returned HTTP 200, and active-board membership with matching ID, title, and location was checked.
+- **Durability:** time-bound recruitment observation, not a construction or approval milestone; see [FACT-023](site-facts.md#fact-023--senior-government-affairs-recruitment-observation).
+- **Execution-capability implication:** observed demand covers regional government relationships, community and business relations, educational outreach, policy monitoring, and external stakeholder coordination.
+- **Likely benefiting families:** government affairs; public affairs; community relations; policy and stakeholder interfaces. Engineering and construction families remain distinct.
+- **Generic strategy consequence:** treat this exact senior external-affairs vacancy separately from inferred technical demand; the evidence does not support a construction-targeting change.
+- **Generic resume-evidence category:** measurable stakeholder-engagement, government/community relations, policy navigation, issue management, and cross-functional communication outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-10-12 UTC. No replacement relationship with ROLE-001 is inferred.
