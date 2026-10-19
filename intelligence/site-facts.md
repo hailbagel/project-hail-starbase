@@ -192,6 +192,38 @@ These records describe time-bound official recruitment observations. They do not
 - **Source:** [SRC-010](sources.md#source-register), checked 2026-10-12 UTC.
 - **Confidence:** High for the exact vacancy observation; no evidence establishes that it replaces FACT-018's earlier role, nor does it prove engineering hiring, construction progress, a permit, approval, or completed milestone.
 
+### FACT-024 — Communications lead recruitment observation
+
+- **Claim:** SpaceX published an official Communications Lead - Pecan Island vacancy located in Pecan Island, LA, covering community outreach, public relations, communications strategy, stakeholder programs, cross-functional initiatives, and crisis communications; the posting specifies full-time onsite work.
+- **Status:** VERIFIED OPEN ROLE on 2026-10-19 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8884201002`; Greenhouse API `first_published` and `updated_at` both `2026-10-12T16:54:26-04:00`; the exact posting and individual API returned HTTP 200, and the active SpaceX board contained the matching ID, title, and location on the check date.
+- **Source:** [SRC-011](sources.md#source-register), checked 2026-10-19 UTC.
+- **Confidence:** High for the exact vacancy observation; not evidence of construction, approval, award, permitting, or site execution.
+
+### FACT-025 — Construction safety engineer recruitment observation
+
+- **Claim:** SpaceX published an official Sr. Construction Safety Engineer vacancy located in Pecan Island, LA, covering construction-safety and contractor-management programs, contractor onboarding, job-hazard and permit-to-work guidance, risk assessments, audits, and incident-risk reduction.
+- **Status:** VERIFIED OPEN ROLE on 2026-10-19 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8882178002`; Greenhouse API `first_published` and `updated_at` both `2026-10-15T13:31:27-04:00`; the exact posting and individual API returned HTTP 200, and the active SpaceX board contained the matching ID, title, and location on the check date. Basic qualifications include a bachelor's degree and five or more years of EHS-program experience emphasizing construction-safety operations.
+- **Source:** [SRC-012](sources.md#source-register), checked 2026-10-19 UTC.
+- **Confidence:** High for the exact vacancy observation; recruitment language is not evidence of awarded work, construction start, approval, or completed assets.
+
+### FACT-026 — Environmental engineer recruitment observation
+
+- **Claim:** SpaceX published an official Sr. Environmental Engineer vacancy located in Pecan Island, LA, covering environmental-compliance programs, stormwater and spill plans, reporting, audits, and permitting and environmental-testing contractor coordination.
+- **Status:** VERIFIED OPEN ROLE on 2026-10-19 UTC; time-bound recruitment observation; SOURCE LANGUAGE AMBIGUOUS.
+- **Evidence:** Official posting ID `8882126002`; Greenhouse API `first_published` and `updated_at` both `2026-10-15T13:33:56-04:00`; the exact posting and individual API returned HTTP 200, and the active SpaceX board contained the matching ID, title, and location on the check date. Basic qualifications include a bachelor's degree and five or more years of environmental and regulatory-compliance program experience. Although the location is Pecan Island, LA, the posting names TCEQ among applicable agencies and refers to the Starbase location; the record does not resolve whether that wording is templated, cross-site, or otherwise applicable.
+- **Source:** [SRC-013](sources.md#source-register), checked 2026-10-19 UTC.
+- **Confidence:** High for the exact vacancy observation and quoted source ambiguity; no inference is made that TCEQ has Louisiana jurisdiction or that any permit has been sought, issued, or granted.
+
+### FACT-027 — Senior EHS manager recruitment observation
+
+- **Claim:** SpaceX published an official Sr. Manager, Environmental Health & Safety vacancy located in Pecan Island, LA, covering EHS leadership, process and construction safety, risk assessment, engineering controls, agency interfaces, team leadership, and site-level representation; the posting requires onsite relocation if not local and permits up to 25% travel.
+- **Status:** VERIFIED OPEN ROLE on 2026-10-19 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8882063002`; Greenhouse API `first_published` and `updated_at` both `2026-10-15T13:40:19-04:00`; the exact posting and individual API returned HTTP 200, and the active SpaceX board contained the matching ID, title, and location on the check date. Basic qualifications include a bachelor's degree, ten or more years of EHS experience, and five or more years of progressive EHS-management experience.
+- **Source:** [SRC-014](sources.md#source-register), checked 2026-10-19 UTC.
+- **Confidence:** High for the exact vacancy observation; not evidence of construction, approval, award, agency action, granted permits, or completed safeguards.
+
 ## Explicit unresolved items
 
 - No source reviewed here proves that site construction has started or that any listed facility is complete.
