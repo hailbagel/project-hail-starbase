@@ -96,7 +96,7 @@ No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSER
 
 ### SIG-007 — Environmental and permitting interfaces
 
-- **Facts:** [FACT-014](site-facts.md#fact-014--agency-interfaces), [FACT-017](site-facts.md#fact-017--permitting-coastal-and-wildlife-reviews)
+- **Facts:** [FACT-014](site-facts.md#fact-014--agency-interfaces), [FACT-017](site-facts.md#fact-017--permitting-coastal-and-wildlife-reviews), [FACT-026](site-facts.md#fact-026--environmental-engineer-recruitment-observation), [FACT-027](site-facts.md#fact-027--senior-ehs-manager-recruitment-observation)
 - **Capability:** agency interfaces, permitting, compliance coordination, mitigation tracking, stakeholder management.
 - **Likely families:** interface management; permitting; compliance coordination.
 - **Generic strategy consequence:** regulatory records may be more durable than secondary news for schedule and scope changes.
@@ -111,6 +111,24 @@ No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSER
 - **Generic strategy consequence:** treat Source Louisiana as a business-visibility pathway and monitor primary procurement, qualification, selection, and award evidence before inferring active packages or demand.
 - **Generic resume-emphasis consequence:** relevant candidates can describe verified supplier, subcontractor, procurement, and contractor-delivery outcomes they already possess; registration alone supplies no new personal evidence.
 - **Classification:** INFERRED ROLE FAMILY; not a verified vacancy, selected supplier, awarded package, contract, or construction start.
+
+### SIG-009 — Construction safety and EHS interfaces
+
+- **Facts:** [FACT-025](site-facts.md#fact-025--construction-safety-engineer-recruitment-observation), [FACT-027](site-facts.md#fact-027--senior-ehs-manager-recruitment-observation)
+- **Capability:** construction-safety programs, contractor onboarding and management, risk assessment, auditing, process safety, engineering controls, and EHS leadership.
+- **Likely families:** construction safety; environmental health and safety; contractor-risk management; process and systems safety.
+- **Generic strategy consequence:** treat the exact vacancies as time-bound recruitment evidence and do not infer construction start, awarded packages, or completed safeguards.
+- **Generic resume-emphasis consequence:** relevant candidates can emphasize verified safety-program, contractor-governance, risk-reduction, audit, and engineering-control outcomes.
+- **Classification:** INFERRED ROLE FAMILY outside the exact verified vacancies; not proof of site execution, construction, approval, or award.
+
+### SIG-010 — Communications and community interfaces
+
+- **Facts:** [FACT-024](site-facts.md#fact-024--communications-lead-recruitment-observation)
+- **Capability:** community outreach, public relations, communications strategy, stakeholder programs, cross-functional initiatives, and crisis communications.
+- **Likely families:** communications; public relations; community outreach; stakeholder engagement.
+- **Generic strategy consequence:** treat the exact vacancy as time-bound recruitment evidence and keep project execution or approval claims separate.
+- **Generic resume-emphasis consequence:** relevant candidates can emphasize verified communications-program, community-partnership, stakeholder, event, and crisis-response outcomes.
+- **Classification:** INFERRED ROLE FAMILY outside the exact verified vacancy; not proof of site execution, construction, approval, or award.
 
 ## Vacancy observations checked 2026-09-21
 
@@ -152,3 +170,55 @@ The exact roles below were verified on the stated check date. Their related gene
 - **Generic strategy consequence:** treat this exact senior external-affairs vacancy separately from inferred technical demand; the evidence does not support a construction-targeting change.
 - **Generic resume-evidence category:** measurable stakeholder-engagement, government/community relations, policy navigation, issue management, and cross-functional communication outcomes.
 - **Classification:** VERIFIED OPEN ROLE on 2026-10-12 UTC. No replacement relationship with ROLE-001 is inferred.
+
+## Vacancy observations checked 2026-10-19
+
+### ROLE-006 — Communications Lead - Pecan Island
+
+- **Observed change:** [Official posting 8884201002](https://job-boards.greenhouse.io/spacex/jobs/8884201002), Communications Lead - Pecan Island, Pecan Island, LA, was live on 2026-10-19 UTC. The [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8884201002) reports `first_published=2026-10-12T16:54:26-04:00` and `updated_at=2026-10-12T16:54:26-04:00`.
+- **Work-mode qualifier:** the posting specifies full-time onsite work in Pecan Island; hybrid and remote work are not considered.
+- **Reliability:** Class A official SpaceX Greenhouse posting; the exact page and individual API returned HTTP 200, and active-board membership with matching ID, title, and location was checked.
+- **Durability:** time-bound recruitment observation, not a site-execution or approval milestone; see [FACT-024](site-facts.md#fact-024--communications-lead-recruitment-observation).
+- **Execution-capability implication:** observed demand covers community outreach, public relations, communications strategy, stakeholder programs, cross-functional initiatives, and crisis communications.
+- **Likely benefiting families:** communications; public relations; community outreach; stakeholder engagement.
+- **Generic strategy consequence:** treat this exact vacancy separately from site progress and recheck the official record before any later current-vacancy claim.
+- **Generic resume-evidence category:** measurable communications-program, community-partnership, stakeholder, event, and crisis-response outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-10-19 UTC.
+
+### ROLE-007 — Sr. Construction Safety Engineer
+
+- **Observed change:** [Official posting 8882178002](https://job-boards.greenhouse.io/spacex/jobs/8882178002), Sr. Construction Safety Engineer, Pecan Island, LA, was live on 2026-10-19 UTC. The [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8882178002) reports `first_published=2026-10-15T13:31:27-04:00` and `updated_at=2026-10-15T13:31:27-04:00`.
+- **Qualification qualifier:** basic qualifications include a bachelor's degree and five or more years of EHS-program experience emphasizing construction-safety operations.
+- **Reliability:** Class A official SpaceX Greenhouse posting; the exact page and individual API returned HTTP 200, and active-board membership with matching ID, title, and location was checked.
+- **Durability:** time-bound recruitment observation, not proof of construction start, awarded work, approvals, or completed assets; see [FACT-025](site-facts.md#fact-025--construction-safety-engineer-recruitment-observation).
+- **Execution-capability implication:** observed demand covers construction-safety and contractor-management programs, contractor onboarding, job-hazard and permit-to-work guidance, risk assessments, audits, and incident-risk reduction.
+- **Likely benefiting families:** construction safety; EHS engineering; contractor-risk management.
+- **Generic strategy consequence:** distinguish this exact vacancy from project execution and recheck the official record before any later current-vacancy claim.
+- **Generic resume-evidence category:** verified safety-program, contractor-onboarding, risk-assessment, audit, training, and incident-reduction outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-10-19 UTC.
+
+### ROLE-008 — Sr. Environmental Engineer
+
+- **Observed change:** [Official posting 8882126002](https://job-boards.greenhouse.io/spacex/jobs/8882126002), Sr. Environmental Engineer, Pecan Island, LA, was live on 2026-10-19 UTC. The [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8882126002) reports `first_published=2026-10-15T13:33:56-04:00` and `updated_at=2026-10-15T13:33:56-04:00`.
+- **Qualification qualifier:** basic qualifications include a bachelor's degree and five or more years of environmental and regulatory-compliance program experience.
+- **Source ambiguity:** the Pecan Island posting names TCEQ among applicable agencies and refers to the Starbase location. The record does not resolve whether that language is templated, cross-site, or otherwise applicable, and it is not treated as evidence that TCEQ has Louisiana jurisdiction or that any permit has been sought, issued, or granted.
+- **Reliability:** Class A official SpaceX Greenhouse posting; the exact page and individual API returned HTTP 200, and active-board membership with matching ID, title, and location was checked.
+- **Durability:** time-bound recruitment observation, not a permit, approval, construction, or mitigation milestone; see [FACT-026](site-facts.md#fact-026--environmental-engineer-recruitment-observation).
+- **Execution-capability implication:** observed demand covers environmental-compliance programs, stormwater and spill plans, reporting, audits, regulator relationships, and permitting and testing contractor coordination.
+- **Likely benefiting families:** environmental engineering; environmental compliance; permitting and testing coordination.
+- **Generic strategy consequence:** preserve the TCEQ ambiguity, keep jurisdiction and permit claims unresolved, and recheck the official record before any later current-vacancy claim.
+- **Generic resume-evidence category:** verified compliance-program, stormwater, spill-prevention, reporting, audit, regulator-interface, and contractor-coordination outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-10-19 UTC; TCEQ language remains unresolved source ambiguity.
+
+### ROLE-009 — Sr. Manager, Environmental Health & Safety
+
+- **Observed change:** [Official posting 8882063002](https://job-boards.greenhouse.io/spacex/jobs/8882063002), Sr. Manager, Environmental Health & Safety, Pecan Island, LA, was live on 2026-10-19 UTC. The [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8882063002) reports `first_published=2026-10-15T13:40:19-04:00` and `updated_at=2026-10-15T13:40:19-04:00`.
+- **Work-mode qualifier:** the posting requires relocation if not already local to Pecan Island and permits up to 25% travel.
+- **Qualification qualifier:** basic qualifications include a bachelor's degree, ten or more years of EHS experience, and five or more years of progressive EHS-management experience.
+- **Reliability:** Class A official SpaceX Greenhouse posting; the exact page and individual API returned HTTP 200, and active-board membership with matching ID, title, and location was checked.
+- **Durability:** time-bound recruitment observation, not proof of construction, approval, award, agency action, or completed safeguards; see [FACT-027](site-facts.md#fact-027--senior-ehs-manager-recruitment-observation).
+- **Execution-capability implication:** observed demand covers EHS leadership, process and construction safety, risk assessment, engineering controls, agency interfaces, and team management.
+- **Likely benefiting families:** EHS leadership; process safety; construction safety; systems safety; environmental compliance.
+- **Generic strategy consequence:** distinguish this exact vacancy from project milestones and recheck the official record before any later current-vacancy claim.
+- **Generic resume-evidence category:** verified EHS-leadership, process/construction-safety, engineering-control, regulator-interface, and team-management outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-10-19 UTC.
