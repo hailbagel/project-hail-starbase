@@ -18,6 +18,8 @@ No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSER
 
 **Current observation (2026-10-12 UTC):** ROLE-001 is no longer confirmed open and is classified **RECENTLY OBSERVED ROLE**. ROLE-005 is a separate exact official posting classified **VERIFIED OPEN ROLE**. This supersedes only the current-status interpretation of ROLE-001; it does not establish that ROLE-005 is a replacement or that ROLE-001 was filled.
 
+**Current observation (2026-10-26 UTC):** ROLE-002 is no longer confirmed open and is classified **RECENTLY OBSERVED ROLE**. ROLE-010 is a distinct exact official posting classified **VERIFIED OPEN ROLE**. This supersedes only the current-status interpretation of ROLE-002; it does not establish that the counsel role was filled, replaced, or cancelled.
+
 ### ROLE-001 — Government Affairs Manager
 
 - **Observed change:** [Official posting 8787398002](https://job-boards.greenhouse.io/spacex/jobs/8787398002), Government Affairs Manager, Pecan Island, LA, was live on 2026-09-16 UTC; the [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8787398002) reports `first_published=2026-09-14T12:57:12-04:00`.
@@ -32,13 +34,13 @@ No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSER
 ### ROLE-002 — Sr. Counsel, Real Estate & Infrastructure
 
 - **Observed change:** [Official posting 8808149002](https://job-boards.greenhouse.io/spacex/jobs/8808149002), Sr. Counsel, Real Estate & Infrastructure, Pecan Island, LA, was live on 2026-09-16 UTC; the [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8808149002) reports `first_published=2026-09-15T11:40:54-04:00`.
-- **Reliability:** Class A official SpaceX Greenhouse posting; exact page, individual API record, and presence in the official board listing were checked.
+- **Reliability:** Class A official SpaceX Greenhouse posting; exact page, individual API record, and presence in the official board listing were checked on 2026-09-16. On 2026-10-26 the ID was absent from the active board, its API returned HTTP 404, and its exact page redirected to SpaceX Careers.
 - **Durability:** time-bound recruitment observation, not proof of approved land, utilities, permits, or construction; see [FACT-019](site-facts.md#fact-019--real-estate-and-infrastructure-counsel-recruitment-observation).
-- **Execution-capability implication:** SpaceX is recruiting legal capacity for land/access, real-estate and infrastructure transactions, utility and commercial arrangements, and interfaces with engineering, construction, operations, officials, utilities, and regulators.
+- **Execution-capability implication:** SpaceX was recruiting legal capacity for land/access, real-estate and infrastructure transactions, utility and commercial arrangements, and interfaces with engineering, construction, operations, officials, utilities, and regulators.
 - **Likely benefiting families:** real-estate counsel; infrastructure and energy transactions; land/access legal; commercial contracting.
-- **Generic strategy consequence:** treat this as an observed legal opening and interface signal, not as an engineering or construction-management vacancy.
+- **Generic strategy consequence:** retain this as historical legal/infrastructure-interface evidence, not a current vacancy or a basis to reduce inferred construction demand.
 - **Generic resume-evidence category:** complex real-estate/infrastructure transactions, land and access instruments, utility/commercial agreements, and cross-functional technical/permitting coordination.
-- **Classification:** VERIFIED OPEN ROLE on 2026-09-16 UTC.
+- **Classification:** RECENTLY OBSERVED ROLE as of 2026-10-26 UTC; the verified-open observation on 2026-09-16 remains dated history. No filled, replaced, or cancelled-position inference is made.
 
 ### SIG-001 — Launch infrastructure
 
@@ -87,11 +89,11 @@ No Louisiana vacancy is classified as **VERIFIED OPEN ROLE** or **RECENTLY OBSER
 
 ### SIG-006 — Housing and campus infrastructure
 
-- **Facts:** [FACT-008](site-facts.md#fact-008--vehicle-processing-and-housing)
-- **Capability:** facilities, site development, utilities, civil works, campus project management.
-- **Likely families:** facilities; civil; project management.
-- **Generic strategy consequence:** keep this broad until sourced scope, phasing, or official roles emerge.
-- **Generic resume-emphasis consequence:** relevant candidates can emphasize verified campus, facilities, and site-infrastructure coordination.
+- **Facts:** [FACT-008](site-facts.md#fact-008--vehicle-processing-and-housing), [FACT-029](site-facts.md#fact-029--proposed-former-pecan-island-high-school-support-site-leases)
+- **Capability:** facilities adaptation and maintenance, staging and site-support interfaces, site development, utilities, civil works, campus project management, and logistics.
+- **Likely families:** facilities; civil; project management; logistics.
+- **Generic strategy consequence:** keep the role families broad and treat FACT-029 as proposal context only until an executed instrument, decision record, or more specific official scope emerges.
+- **Generic resume-emphasis consequence:** relevant candidates can emphasize verified campus, facilities, site-infrastructure, maintenance, staging, and logistics coordination they already possess; the proposal supplies no new personal evidence.
 - **Classification:** INFERRED ROLE FAMILY.
 
 ### SIG-007 — Environmental and permitting interfaces
@@ -222,3 +224,18 @@ The exact roles below were verified on the stated check date. Their related gene
 - **Generic strategy consequence:** distinguish this exact vacancy from project milestones and recheck the official record before any later current-vacancy claim.
 - **Generic resume-evidence category:** verified EHS-leadership, process/construction-safety, engineering-control, regulator-interface, and team-management outcomes.
 - **Classification:** VERIFIED OPEN ROLE on 2026-10-19 UTC.
+
+## Vacancy observation checked 2026-10-26
+
+### ROLE-010 — Principal Construction Project Engineer (Starship Infrastructure - Louisiana)
+
+- **Observed change:** [Official posting 8910816002](https://job-boards.greenhouse.io/spacex/jobs/8910816002), Principal Construction Project Engineer (Starship Infrastructure - Louisiana), listed in Pecan Island, LA, was live on 2026-10-26 UTC. The [individual API record](https://boards-api.greenhouse.io/v1/boards/spacex/jobs/8910816002) reports `first_published=2026-10-23T15:00:00-04:00` and `updated_at=2026-10-23T15:00:00-04:00`.
+- **Assignment qualifier:** the posting states that work begins in Starbase, Texas, with required relocation to Louisiana in early 2027.
+- **Qualification qualifier:** basic qualifications include a relevant bachelor's degree and 10 or more years of construction experience; preferred qualifications include 15 or more years of construction experience and 5 or more years of large-scale land development. Preferred criteria are not mandatory requirements.
+- **Reliability:** Class A official SpaceX Greenhouse posting; the exact page and individual API returned HTTP 200, and active-board membership with matching ID, title, and location was checked.
+- **Durability:** time-bound recruitment observation, not proof of construction start, approvals, awarded work, or completed milestones; see [FACT-028](site-facts.md#fact-028--principal-construction-project-engineer-recruitment-observation).
+- **Execution-capability implication:** observed demand covers civil/site and utility delivery, constructability, field quality, contractor coordination, permitting interfaces, and contract closeout.
+- **Likely benefiting families:** construction project engineering; land development; utilities; construction management. Other related families remain inferred outside this exact role.
+- **Generic strategy consequence:** treat this as a distinct principal-level construction target and compare verified career evidence with the exact posting before selecting emphasis; no personal fit or application decision is established.
+- **Generic resume-evidence category:** verified civil/site, utility, constructability, field-quality, contractor-coordination, permitting-interface, and contract-closeout outcomes.
+- **Classification:** VERIFIED OPEN ROLE on 2026-10-26 UTC.

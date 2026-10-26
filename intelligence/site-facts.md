@@ -155,9 +155,9 @@ These records describe time-bound official recruitment observations. They do not
 ### FACT-019 — Real-estate and infrastructure counsel recruitment observation
 
 - **Claim:** SpaceX published an official Sr. Counsel, Real Estate & Infrastructure vacancy located in Pecan Island, LA, covering land and access, real-estate transactions, utility/infrastructure commercial legal work, and coordination with technical and permitting workstreams.
-- **Status:** VERIFIED OPEN ROLE on 2026-09-16 UTC; time-bound recruitment observation.
-- **Evidence:** Official posting ID `8808149002`; Greenhouse API `first_published` and `updated_at` both `2026-09-15T11:40:54-04:00`; the exact posting, individual API record, and SpaceX Greenhouse job list were live and consistent on the check date. The stated Louisiana bar requirement identifies this as counsel, not a construction-management opening.
-- **Source:** [SRC-006](sources.md#source-register), checked 2026-09-16 UTC.
+- **Status:** RECENTLY OBSERVED ROLE as of 2026-10-26 UTC; verified open on 2026-09-16 UTC, but not confirmed open on the later check.
+- **Evidence:** Official posting ID `8808149002`; Greenhouse API `first_published` and `updated_at` both `2026-09-15T11:40:54-04:00`; the exact posting, individual API record, and SpaceX Greenhouse job list were live and consistent on 2026-09-16. On 2026-10-26 the ID was absent from the active board, its individual API returned HTTP 404, and its exact page redirected to SpaceX Careers. That later result does not establish a filled, replaced, or cancelled position. The stated Louisiana bar requirement identifies this as counsel, not a construction-management opening.
+- **Source:** [SRC-006](sources.md#source-register), checked 2026-09-16 and rechecked 2026-10-26 UTC.
 - **Confidence:** High for the exact vacancy observation; not evidence that utilities, permits, designs, or construction are approved or underway.
 
 ### FACT-020 — Civil-engineering recruitment observation
@@ -224,6 +224,22 @@ These records describe time-bound official recruitment observations. They do not
 - **Source:** [SRC-014](sources.md#source-register), checked 2026-10-19 UTC.
 - **Confidence:** High for the exact vacancy observation; not evidence of construction, approval, award, agency action, granted permits, or completed safeguards.
 
+### FACT-028 — Principal construction project engineer recruitment observation
+
+- **Claim:** SpaceX published an official Principal Construction Project Engineer (Starship Infrastructure - Louisiana) vacancy listed in Pecan Island, LA. The posting states that the position begins in Starbase, Texas, and requires relocation to Louisiana in early 2027.
+- **Status:** VERIFIED OPEN ROLE on 2026-10-26 UTC; time-bound recruitment observation.
+- **Evidence:** Official posting ID `8910816002`; Greenhouse API `first_published` and `updated_at` both `2026-10-23T15:00:00-04:00`; the exact posting and individual API returned HTTP 200, and the active SpaceX board contained the matching ID, title, and location on the check date. Duties cover civil/site and utility delivery, constructability, field quality, contractor coordination, permitting interfaces, and contract closeout. Basic qualifications include a relevant bachelor's degree and 10 or more years of construction experience; preferred qualifications include 15 or more years of construction experience and 5 or more years of large-scale land development.
+- **Source:** [SRC-015](sources.md#source-register), checked 2026-10-26 UTC.
+- **Confidence:** High for the exact vacancy observation; preferred qualifications are not mandatory requirements, and recruitment language does not prove construction, approval, award, or completed work.
+
+### FACT-029 — Proposed former Pecan Island High School support-site leases
+
+- **Claim:** An official University of Louisiana System H.3 agenda packet proposes UL Lafayette leasing approximately 5.024 acres at the former Pecan Island High School to Ragin' Cajun Facilities, with a posted form for a SpaceX sublease. The prime packet describes proposed facilities and support uses.
+- **Status:** VERIFIED POSTED PROPOSAL dated 2026-10-22; execution, possession, sale, construction, and approval are not established.
+- **Evidence:** The prime lease packet's pages 1 and 4–5 describe the proposal and support uses. The posted forms contain blank effective-date and signature fields, and the sublease is conditional. Sublease page 14, Exhibit A, contains no itemized improvements in the posted copy.
+- **Source:** [SRC-016 and SRC-017](sources.md#source-register); publication date unknown, document and meeting date 2026-10-22, checked 2026-10-26 UTC.
+- **Confidence:** High that the official packet documents a proposal; it supplies no basis to infer execution, possession, sale, construction, approval, improvement quantities, cost, or awarded work.
+
 ## Explicit unresolved items
 
 - No source reviewed here proves that site construction has started or that any listed facility is complete.
@@ -232,3 +248,5 @@ These records describe time-bound official recruitment observations. They do not
 - The official SpaceX page was live on 2026-09-13, but its client-rendered response did not yield additional claim text in this validation. No claim is promoted from the page solely because the URL exists.
 - The two 2026-09-16 vacancy observations are time-bound recruitment evidence. They do not convert any planned, evaluated, or unresolved project item into an approved or completed milestone.
 - FACT-018's dated 2026-09-16 observation remains valid history, but its current-open interpretation was superseded on 2026-10-12. FACT-023 is a separate current vacancy; replacement and filled-position inferences remain unsupported.
+- FACT-019's dated 2026-09-16 observation remains valid history, but its current-open interpretation was superseded on 2026-10-26. No filled, replaced, or cancelled-position inference is supported.
+- FACT-029 records posted proposal documents only. Blank dates, signatures, conditions, and the unitemized Exhibit A do not establish an executed lease, possession, approval, construction, cost, quantities, or awarded work.
